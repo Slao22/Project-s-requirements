@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* table{
+    border-collapse:collapse;
+   } */
+
+.height_col{
+    height: 80px;
+}
+
+.heading {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+table {
+    text-align: center
+}
+
+.daytime td {
+    width: 3%;
+}
+
+.firstperson{
+}
+
